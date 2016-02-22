@@ -70,3 +70,9 @@ a:hover {
     width: 33.33333%;
   }
 }
+
+.btn-group{
+	margin-left: 5%;
+	margin-top: 0.5%;
+	margin-bottom: 1%;
+}
