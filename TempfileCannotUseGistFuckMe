@@ -1,0 +1,6 @@
+djackphare:x:1001:1001:Admin Supreme:/home/admins/djack:/bin/bash
+eolas:x:1002:1002:Admin:/home/admins/eolas:/bin/bash
+skullpanda:x:1003:1003:Admin:/home/admins/skullpanda:/bin/bash
+kanari:x:1004:1004:Lead Scenarist:/home/scenarists/kanari:/bin/bash
+miya:x:1005:1005:Lead Designer:/home/designers/miya:/bin/bash
+dworkim:x:1006:1006:Lead Dev:/home/admins/dworkim:/bin/bash
